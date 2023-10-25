@@ -37,10 +37,10 @@ function IsMonitorOff {
 # Define your email settings
 $smtpServer = "smtp-relay.gmail.com"
 $smtpPort = 587
-$smtpUsername = "monitoralerts@engrain.com"
-$smtpPassword = "%LMy-2NBX07$"
-$senderEmail = "monitoralerts@engrain.com"
-$recipientEmail = "aproctor@engrain.com"
+$smtpUsername = ""
+$smtpPassword = ""
+$senderEmail = ""
+$recipientEmail = ""
 $subject = "Monitor Status Alert"
 
 # Log file path
